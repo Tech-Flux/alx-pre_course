@@ -1,2 +1,1 @@
-#My first readme
-#ALX is a goog Programe!
+ALX is a goog Programe!
